@@ -10,18 +10,28 @@ This project focuses on understanding and mitigating security vulnerabilities in
 
 <h2>Tools and Technologies Used</h2>
 
-- <b>AWS Services: RDS, EC2, CloudTrail, CloudWatch
-- <b>Database: MySQL (or PostgreSQL, as applicable)
-- <b>Command-Line Interface: Windows CMD/Terminal
-- <b>Security Concepts: Network ACLs, Security Groups, Encryption, SQL Injection
+- **AWS Services**: RDS, EC2, CloudTrail, CloudWatch
+
+- **Database**: MySQL (or PostgreSQL, as applicable)
+
+- **Command-Line Interface**: Windows CMD/Terminal
+
+- **Security Concepts**: Network ACLs, Security Groups, Encryption, SQL Injection
+
 
 <h2>Key Features</h2>
-- Simulated an insecure AWS RDS database setup<br/>
-- Performed SQL injection to exploit vulnerabilities.<br/>
-- Implemented security measures: strong passwords, restricted public access, and backups.<br/>
-- Configured Network ACLs and Security Groups for fine-grained access control.<br/>
-- Created database snapshots for disaster recovery.<br/>
-- <br/>
+
+- **Simulated an insecure AWS RDS database setup**: Identified vulnerabilities in an RDS instance by simulating insecure configurations.
+
+- **Performed SQL injection to exploit vulnerabilities**: Tested the system by attempting SQL injection to demonstrate weaknesses in the database security.
+
+- **Implemented security measures**: Applied strong passwords, restricted public access, and set up backups to improve database security.
+
+- **Configured Network ACLs and Security Groups**: Applied fine-grained access control by configuring Network ACLs and Security Groups to secure network access to the database.
+
+- **Created database snapshots for disaster recovery**: Ensured business continuity by creating periodic database snapshots for disaster recovery.
+
+
 
 
 <h2>Steps Undertaken :</h2>
@@ -94,11 +104,14 @@ This project focuses on understanding and mitigating security vulnerabilities in
 
 
 <h2>Key Learnings</h2>
-     -Understood AWS RDS configurations and their impact on database security.<br/>
-     - Simulated and mitigated SQL injection vulnerabilities.<br/>
-     - Implemented industry best practices for securing cloud databases.<br/>
-     - Learned to manage access control using AWS Security Groups and Network ACLs.<br/>
 
+- Understood AWS RDS configurations and their impact on database security.
+
+- Simulated and mitigated SQL injection vulnerabilities.
+
+- Implemented industry best practices for securing cloud databases.
+
+- Learned to manage access control using AWS Security Groups and Network ACLs.
 
 </p>
 
